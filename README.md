@@ -9,12 +9,12 @@ and any certified OpenID Connect library can do the same. See
 [Without the SDK](#without-the-sdk).
 
 ```bash
-composer require okitechnologies/people-php
+composer require oki-technologies/people-php
 ```
 
 PHP 8.3+. Bring your own HTTP client (PSR-18), message factories (PSR-17), cache
 (PSR-16) and clock (PSR-20). On Laravel, use
-`okitechnologies/people-laravel` instead, which wires all of this up.
+`oki-technologies/people-laravel` instead, which wires all of this up.
 
 ## Before you start
 

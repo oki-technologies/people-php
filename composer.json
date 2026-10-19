@@ -1,5 +1,5 @@
 {
-    "name": "okitechnologies/people-php",
+    "name": "oki-technologies/people-php",
     "description": "Sign people in with People, verify their tokens and keep their identities current.",
     "keywords": [
         "oauth2",

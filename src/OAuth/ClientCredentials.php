@@ -77,6 +77,6 @@ final readonly class ClientCredentials
     {
         sort($scopes);
 
-        return 'okitechnologies.people.client.'.hash('sha256', $this->config->clientId().' '.implode(' ', $scopes));
+        return 'oki-technologies.people.client.'.hash('sha256', $this->config->clientId().' '.implode(' ', $scopes));
     }
 }

@@ -16,7 +16,7 @@ use Oki\People\Support\Remembered;
  */
 final readonly class Discovery
 {
-    private const string KEY = 'okitechnologies.people.discovery';
+    private const string KEY = 'oki-technologies.people.discovery';
 
     public function __construct(
         private Config $config,

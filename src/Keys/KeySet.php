@@ -18,7 +18,7 @@ use Oki\People\Support\Remembered;
  */
 final readonly class KeySet
 {
-    private const string KEY = 'okitechnologies.people.jwks';
+    private const string KEY = 'oki-technologies.people.jwks';
 
     public function __construct(
         private Discovery $discovery,
